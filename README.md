@@ -19,5 +19,5 @@ conda install -c conda-forge selenium, or
 
 pip install selenium
 
-This code is based on Tinder bot for Python. 
+This code is based on Tinder bot using Python. 
 https://www.youtube.com/watch?v=lvFAuUcowT4
