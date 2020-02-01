@@ -8,8 +8,8 @@ Download the latest stable release.
 
 For WebDriver to find the downloaded ChromeDriver, either:
 
-include the path to ChromeDriver when instantiating webdriver.Chrome or,
-include the ChromeDriver location in your PATH environment variable.
+include the path to ChromeDriver when instantiating webdriver or,
+include the ChromeDriver location in your PATH environment variable (Windows).
 
 https://chromedriver.chromium.org/getting-started
 
