@@ -1,5 +1,5 @@
 # bumble-bot
-This is a bot to automate swiping in Bumble.
+A bot to automate swiping in Bumble.
 
 Before running the code, install Chromedriver.
 https://chromedriver.chromium.org/
