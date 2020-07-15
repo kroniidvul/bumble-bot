@@ -16,9 +16,7 @@ https://chromedriver.chromium.org/getting-started
 ```
 Installing selenium:
 
-conda install -c conda-forge selenium, or
-
-pip install selenium
+conda install -c conda-forge selenium, or pip install selenium
 ```
 
 This code is based on Tinder bot using Python. 
